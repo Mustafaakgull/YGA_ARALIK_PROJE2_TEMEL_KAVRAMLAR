@@ -1,0 +1,13 @@
+projenin amacı:
+Bu projede, temel matematiksel işlemleri gerçekleştiren bir hesap makinesi uygulaması geliştirilmiştir.
+ Kullanıcıdan iki sayı alındıktan sonra, bu sayılarla toplama, çıkarma, çarpma ve bölme işlemleri yapılabilmektedir.
+ Kullanıcı, hangi işlemi gerçekleştirmek istediğini seçerek sonucu bulur.
+ ayrıca işlemlerin sonucları bir txt dosyasına kaydedilir.
+
+zorluklar:
+herhangi bir zorlukla karşılaşılmamıştır.
+
+kaynaklar:
+https://docs.python.org/3/
+
+

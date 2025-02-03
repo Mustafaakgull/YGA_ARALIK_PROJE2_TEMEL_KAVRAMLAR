@@ -12,6 +12,6 @@ elif operation == "bölme":
     if num2 != 0:
         print(f"Sonuç: {num1 / num2}")
     else:
-        print("Bir sayıyı sıfıra bölemezsiniz!")
+        print("sayı sıfıra bölünemez...")
 else:
     print("Geçersiz işlem.")
