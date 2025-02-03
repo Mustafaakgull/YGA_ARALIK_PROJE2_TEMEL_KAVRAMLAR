@@ -1,0 +1,24 @@
+basit hesap makinesi projesi
+başla
+1- kullanıcıdan 1. sayıyı al
+2- kullanıcıdan 2. sayıyı al
+3- sayıları float veri tipine dönüştür
+4- kullanıcıdan işlemi al
+5- kullanıcı, toplama, çıkarma, çarpma, bölme işlemlerinden birini seçer
+6- kullanıcıdan alınan işlem, küçük harflere çevrilir
+7- eğer kullanıcı toplama seçerse
+8- sayıları topla
+9- ekrana yazdır
+10- eğer kullanıcı çıkarma seçerse
+11- sayıları çıkar
+12- ekrana yazdır
+13- eğer kullanıcı çarpma seçerse
+14- sayıları çarp
+15- ekrana yazdır
+16- eğer kullanıcı bölme işaretini seçerse
+17- ikinci sayının 0 olup olmadığını kontrol et
+18- eğer 0 ise hata mesajı ver
+19- değilse sayıları böl
+20- ekrana yazdır
+21- eğer kullanıcı yanlış bir işlem seçerse hata mesajı ver
+son
